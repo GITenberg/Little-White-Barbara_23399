@@ -1,0 +1,25 @@
+_repo: Little-White-Barbara_23399
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23399-h/images/cover.jpg
+creator:
+  author:
+    agent_name: March, Eleanor S.
+    gutenberg_agent_id: '25823'
+    url: http://www.gutenberg.org/2009/agents/25823
+description: An imitation of Helen Bannerman's Little Black Sambo, this tells the
+  story of a little girl who gets whiter and thinner day by day.
+gutenberg_issued: '2007-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23399'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Laughter -- Juvenile fiction'
+title: Little White Barbara
+url: http://www.gutenberg.org/ebooks/23399
