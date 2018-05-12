@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25823
 description: An imitation of Helen Bannerman's Little Black Sambo, this tells the
   story of a little girl who gets whiter and thinner day by day.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23399#Little-White-Barbara
 gutenberg_issued: '2007-11-07'
 gutenberg_type: Text
 identifiers:
